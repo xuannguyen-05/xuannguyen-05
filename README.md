@@ -1,4 +1,4 @@
-### 👋 Chào bạn, tôi là Phạm Xuân Nguyên!
+### 👋 Hello, I'm Nguyen!
 <p>
   I am an IT student
   <br/>
