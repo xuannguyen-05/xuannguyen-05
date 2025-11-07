@@ -1,8 +1,8 @@
 ### 👋 Chào bạn, tôi là Phạm Xuân Nguyên!
 <p>
-  Tôi là một sinh viên CNTT
+  I am an IT student
   <br/>
-  Tôi quan tâm đến lĩnh vực AI, Web Developer.
+  I am interested in AI, Web Developer field.
 </p>
 
 <p align="center">
