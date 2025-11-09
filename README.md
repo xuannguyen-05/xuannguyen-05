@@ -1,4 +1,5 @@
 ### 👋 Hello, I'm Nguyen!
+Welcome to my GitHub profile!
 <p>
   I am an IT student
   <br/>
