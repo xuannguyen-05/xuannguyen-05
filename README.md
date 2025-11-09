@@ -53,7 +53,7 @@
     <td width="50%">
       <a href="https://github.com/xuannguyen-05/web-freelancer">
         <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=xuannguyen-05&repo=web-freelancer&theme=radical" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=xuannguyen-05&repo=ModuleDatHang&theme=radical" 
           alt="web-freelancer"
         />
       </a>
