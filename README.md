@@ -1,10 +1,12 @@
 ### 👋 Hello, I'm Nguyen!
-Welcome to my GitHub profile!
+✨ Welcome to my GitHub! ✨
+
 <p>
-  I am an IT student
-  <br/>
-  I am interested in AI, Web Developer field.
+  🎓 I'm an IT student from Da Nang.<br/>
+  💡 Interested in <b>AI</b> and <b>Web Development</b>.<br/>
+  🚀 Always learning and building new things!
 </p>
+
 
 <p align="center">
   <img 
