@@ -54,7 +54,7 @@
       <a href="https://github.com/xuannguyen-05/web-freelancer">
         <img 
           src="https://github-readme-stats.vercel.app/api/pin/?username=xuannguyen-05&repo=ModuleDatHang&theme=radical" 
-          alt="web-freelancer"
+          alt="ModuleDatHang"
         />
       </a>
     </td>
