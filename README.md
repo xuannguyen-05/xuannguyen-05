@@ -51,7 +51,7 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/xuannguyen-05/web-freelancer">
+      <a href="https://github.com/xuannguyen-05/ModuleDatHang">
         <img 
           src="https://github-readme-stats.vercel.app/api/pin/?username=xuannguyen-05&repo=ModuleDatHang&theme=radical" 
           alt="ModuleDatHang"
