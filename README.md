@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Nguyen!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Backend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
 ## 🚀 About Me
 
 🎓 **IT Student** from Da Nang, Vietnam  
@@ -91,18 +87,4 @@
 
 ---
 
-## 💭 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xuannguyen-05&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/xuannguyen-05">xuannguyen-05</a> with ❤️</i>
-</p>
